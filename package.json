@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "IONIC plugin external SD card path plugin",
    "cordova":{
-        "id":"com.verso.cordova.clipboard",
+        "id":"com.sa.extsdcard",
         "platforms":[
             "ios",
             "android",
