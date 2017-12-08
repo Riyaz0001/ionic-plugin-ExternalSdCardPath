@@ -5,9 +5,7 @@
    "cordova":{
         "id":"com.sa.extsdcard",
         "platforms":[
-            "ios",
-            "android",
-            "wp8"
+            "android"
         ]
     },
   "repository": {
